@@ -1,5 +1,5 @@
-# Meteor Ethersim
-The ethersim provider package wrapped for MeteorJS. Now you can simulate an Ethereum node provider within Meteor. The `ethersim` server will be run in the backend by the Meteor dApp server. Please remove `ethersim` as an RPC provider for production use.
+# Meteor EtherSim
+The EtherSim provider package wrapped for MeteorJS. Now you can simulate an Ethereum node provider within your Meteor dApps. The `ethersim` node will be run by the Meteor apps server. Please remove `ethersim` as an RPC provider for production use.
 
 ## Installation
 
