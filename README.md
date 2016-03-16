@@ -3,6 +3,8 @@ The EtherSim provider package wrapped for MeteorJS. Now you can simulate an Ethe
 
 ## Installation
 
+    First, clone this repo into the 'packages' folder inside of your meteor app.  Create the 'packages' folder if it does not exist.  Then run:
+
     $ meteor add silentcicero:ethersim
 
 ## Usage as Lib
